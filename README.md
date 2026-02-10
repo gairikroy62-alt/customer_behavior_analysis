@@ -1,6 +1,8 @@
 # customer_behavior_analysis
 🛍 Customer Shopping Behavior Analysis  A comprehensive data analytics project analyzing 3,900 customer transactions to uncover purchasing patterns, customer segmentation, revenue drivers, and subscription behavior using Python, PostgreSQL, SQL, and Power BI.
+
 📊 Data Analytics Project
+
 1️⃣ Overview
 
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
